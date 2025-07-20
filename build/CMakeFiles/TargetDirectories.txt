@@ -1,0 +1,5 @@
+/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/build/CMakeFiles/pf-tests.dir
+/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/build/CMakeFiles/package.dir
+/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/build/CMakeFiles/package_source.dir
+/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/build/CMakeFiles/edit_cache.dir
+/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/build/CMakeFiles/rebuild_cache.dir

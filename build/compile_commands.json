@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/build",
+  "command": "/usr/bin/c++  -I\"/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/src\" -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/pf-tests.dir/src/Solution.cpp.o -c \"/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/src/Solution.cpp\"",
+  "file": "/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/src/Solution.cpp",
+  "output": "CMakeFiles/pf-tests.dir/src/Solution.cpp.o"
+},
+{
+  "directory": "/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/build",
+  "command": "/usr/bin/c++  -I\"/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/src\" -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/pf-tests.dir/test/test-main.cpp.o -c \"/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/test/test-main.cpp\"",
+  "file": "/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/test/test-main.cpp",
+  "output": "CMakeFiles/pf-tests.dir/test/test-main.cpp.o"
+},
+{
+  "directory": "/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/build",
+  "command": "/usr/bin/c++  -I\"/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/src\" -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/pf-tests.dir/test/test-packet-solution.cpp.o -c \"/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/test/test-packet-solution.cpp\"",
+  "file": "/home/Eduard/Programms/CPP/LeetCode/30. Substring with Concatenation of All Words/test/test-packet-solution.cpp",
+  "output": "CMakeFiles/pf-tests.dir/test/test-packet-solution.cpp.o"
+}
+]
